@@ -406,6 +406,9 @@ void assert_failed(uint8_t *file, uint32_t line)
   ![pmc ex4op](https://github.com/user-attachments/assets/26624f34-f018-4bbe-a69d-da35469cebdd)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+
+ ![WhatsApp Image 2025-04-25 at 09 31 01_aa1e3588](https://github.com/user-attachments/assets/39df131c-c272-4782-918a-906bf47eb6ea)
+
  
  
 ## Result :
